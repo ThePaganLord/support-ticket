@@ -8,4 +8,5 @@ Admin Password: Admin123!
 Demo Login: demo@email.com
 Demo Password: Demo123!
 
-The vendor file is proving to be difficult to load due to it including 8868 items
+The vendor file is proving to be difficult to load due to it including 8868 items.
+As a work-around, I have zipped this folder so it will need to be unzipped should the repo be cloned.
